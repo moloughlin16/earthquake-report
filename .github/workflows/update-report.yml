@@ -26,10 +26,23 @@ jobs:
 
       - name: Install R packages
         run: |
+          echo "=== R_LIBS_USER before install ==="
+          echo "$R_LIBS_USER"
+          echo "=== .libPaths() before install ==="
+          Rscript -e ".libPaths()"
           Rscript -e "install.packages(c('tidyverse', 'lubridate', 'knitr', 'quarto'), repos='https://cloud.r-project.org')"
+          echo "=== .libPaths() after install ==="
+          Rscript -e ".libPaths()"
+          echo "=== tidyverse installed? ==="
+          Rscript -e "cat(rownames(installed.packages()), sep='\n')" | grep tidyverse || echo "tidyverse NOT FOUND"
 
       - name: Run pipeline
-        run: Rscript run-all.R
+        run: |
+          echo "=== R_LIBS_USER in run step ==="
+          echo "$R_LIBS_USER"
+          echo "=== .libPaths() in run step ==="
+          Rscript -e ".libPaths()"
+          Rscript run-all.R
 
 
       - name: Publish to GitHub Pages
