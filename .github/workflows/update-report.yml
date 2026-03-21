@@ -26,9 +26,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          mkdir -p "$RUNNER_TEMP/R/library"
-          echo "R_LIBS_USER=$RUNNER_TEMP/R/library" >> "$GITHUB_ENV"
-          Rscript -e "install.packages(c('tidyverse', 'lubridate', 'knitr', 'quarto'), repos='https://cloud.r-project.org', lib='$RUNNER_TEMP/R/library')"
+          Rscript -e "install.packages(c('tidyverse', 'lubridate', 'knitr', 'quarto'), repos='https://cloud.r-project.org')"
 
       - name: Run pipeline
         run: Rscript run-all.R
