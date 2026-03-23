@@ -16,34 +16,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
 
       - name: Install R packages
-        run: |
-          echo "=== R_LIBS_USER before install ==="
-          echo "$R_LIBS_USER"
-          echo "=== .libPaths() before install ==="
-          Rscript -e ".libPaths()"
-          Rscript -e "install.packages(c('tidyverse', 'lubridate', 'knitr', 'quarto'), repos='https://cloud.r-project.org')"
-          echo "=== .libPaths() after install ==="
-          Rscript -e ".libPaths()"
-          echo "=== tidyverse installed? ==="
-          Rscript -e "cat(rownames(installed.packages()), sep='\n')" | grep tidyverse || echo "tidyverse NOT FOUND"
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: |
+            any::tidyverse
+            any::lubridate
+            any::knitr
+            any::quarto
+          needs: check
 
       - name: Run pipeline
-        run: |
-          echo "=== R_LIBS_USER in run step ==="
-          echo "$R_LIBS_USER"
-          echo "=== .libPaths() in run step ==="
-          Rscript -e ".libPaths()"
-          Rscript run-all.R
-
+        run: Rscript run-all.R
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
