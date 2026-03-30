@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Earthquake website",
@@ -14,25 +7,32 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "report.html",
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 506 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 55 km NNW of Kota Belud, Malaysia."
+    "text": "In the past 30 days, USGS recorded 506 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 506 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 55 km NNW of Kota Belud, Malaysia."
+    "text": "In the past 30 days, USGS recorded 506 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-02-22\n7.0\n55 km NNW of Kota Belud, Malaysia\n\n\n2026-03-21\n6.6\nnorthern Mid-Atlantic Ridge\n\n\n2026-03-20\n6.6\nSouth Shetland Islands\n\n\n2026-03-04\n6.4\n223 km ESE of Attu Station, Alaska\n\n\n2026-03-22\n6.3\n144 km NE of Hihifo, Tonga\n\n\n2026-03-13\n6.3\n85 km W of Vallenar, Chile\n\n\n2026-03-06\n6.3\n181 km SE of Kirakira, Solomon Islands\n\n\n2026-03-01\n6.3\nFiji region\n\n\n2026-03-22\n6.2\n149 km SSW of Lotofagā, Samoa\n\n\n2026-03-22\n6.2\n102 km NE of Hihifo, Tonga\n\n\n2026-03-03\n6.2\n62 km SE of Sinabang, Indonesia"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-03-24\n7.5\n166 km W of Neiafu, Tonga\n\n\n2026-03-30\n7.3\n35 km NE of Luganville, Vanuatu\n\n\n2026-03-21\n6.6\nnorthern Mid-Atlantic Ridge\n\n\n2026-03-20\n6.6\nSouth Shetland Islands\n\n\n2026-03-26\n6.5\n122 km E of Yamada, Japan\n\n\n2026-03-04\n6.4\n223 km ESE of Attu Station, Alaska\n\n\n2026-03-22\n6.3\n144 km NE of Hihifo, Tonga\n\n\n2026-03-13\n6.3\n85 km W of Vallenar, Chile\n\n\n2026-03-01\n6.3\nFiji region\n\n\n2026-03-22\n6.2\n149 km SSW of Lotofagā, Samoa\n\n\n2026-03-22\n6.2\n102 km NE of Hihifo, Tonga\n\n\n2026-03-06\n6.2\n170 km SE of Kirakira, Solomon Islands\n\n\n2026-03-03\n6.2\n62 km SE of Sinabang, Indonesia"
   },
   {
     "objectID": "report.html#magnitude-distribution",
