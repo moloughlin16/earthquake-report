@@ -7,32 +7,25 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "report.html",
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 558 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
+    "text": "In the past 30 days, USGS recorded 552 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 558 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
+    "text": "In the past 30 days, USGS recorded 552 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 166 km W of Neiafu, Tonga."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-03-24\n7.5\n166 km W of Neiafu, Tonga\n\n\n2026-04-01\n7.4\n126 km WNW of Ternate, Indonesia\n\n\n2026-03-30\n7.3\n48 km ENE of Luganville, Vanuatu\n\n\n2026-03-21\n6.6\nnorthern Mid-Atlantic Ridge\n\n\n2026-03-20\n6.6\nSouth Shetland Islands\n\n\n2026-03-26\n6.5\n122 km E of Yamada, Japan\n\n\n2026-03-22\n6.3\n144 km NE of Hihifo, Tonga\n\n\n2026-03-13\n6.3\n85 km W of Vallenar, Chile\n\n\n2026-04-02\n6.2\n113 km WNW of Ternate, Indonesia\n\n\n2026-03-22\n6.2\n149 km SSW of Lotofagā, Samoa\n\n\n2026-03-22\n6.2\n123 km NE of Hihifo, Tonga"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-03-24\n7.5\n166 km W of Neiafu, Tonga\n\n\n2026-04-01\n7.4\n126 km WNW of Ternate, Indonesia\n\n\n2026-03-30\n7.3\n48 km ENE of Luganville, Vanuatu\n\n\n2026-03-21\n6.6\nnorthern Mid-Atlantic Ridge\n\n\n2026-03-26\n6.5\n122 km E of Yamada, Japan\n\n\n2026-03-20\n6.5\nSouth Shetland Islands\n\n\n2026-03-22\n6.3\n140 km ENE of Hihifo, Tonga\n\n\n2026-04-02\n6.2\n113 km WNW of Ternate, Indonesia\n\n\n2026-03-22\n6.2\n152 km ENE of Hihifo, Tonga\n\n\n2026-03-22\n6.2\n123 km NE of Hihifo, Tonga"
   },
   {
     "objectID": "report.html#magnitude-distribution",
@@ -40,5 +33,12 @@
     "title": "Earthquake Report",
     "section": "Magnitude Distribution",
     "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
