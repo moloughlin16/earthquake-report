@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Earthquake website",
@@ -11,21 +18,21 @@
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 472 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.4 near 100 km ENE of Miyako, Japan."
+    "text": "In the past 30 days, USGS recorded 465 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.4 near 98 km ENE of Miyako, Japan."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 472 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.4 near 100 km ENE of Miyako, Japan."
+    "text": "In the past 30 days, USGS recorded 465 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.4 near 98 km ENE of Miyako, Japan."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-04-20\n7.4\n100 km ENE of Miyako, Japan\n\n\n2026-04-26\n6.1\n25 km WNW of Sarabetsu, Japan\n\n\n2026-04-19\n6.1\n88 km NNE of Hihifo, Tonga\n\n\n2026-05-04\n6.0\n5 km WNW of Nena, Philippines\n\n\n2026-04-16\n6.0\nsouth of the Kermadec Islands\n\n\n2026-05-08\n5.9\nsoutheast Indian Ridge\n\n\n2026-04-18\n5.9\nsouth of the Kermadec Islands\n\n\n2026-05-09\n5.8\n292 km WSW of Adak, Alaska\n\n\n2026-05-06\n5.8\n235 km ESE of Attu Station, Alaska\n\n\n2026-05-05\n5.8\n127 km ENE of Pauanui, New Zealand\n\n\n2026-05-05\n5.8\n76 km S of Tambolaka, Indonesia\n\n\n2026-05-01\n5.8\n29 km ENE of Yilan, Taiwan\n\n\n2026-04-18\n5.8\n46 km WSW of Kirakira, Solomon Islands"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-04-20\n7.4\n98 km ENE of Miyako, Japan\n\n\n2026-05-15\n6.7\n49 km ESE of Ōfunato, Japan\n\n\n2026-05-14\n6.2\n271 km WSW of Tual, Indonesia\n\n\n2026-04-26\n6.1\n24 km WNW of Sarabetsu, Japan\n\n\n2026-04-19\n6.1\n88 km NNE of Hihifo, Tonga\n\n\n2026-05-16\n6.0\n70 km ESE of Codrington, Antigua and Barbuda\n\n\n2026-05-04\n6.0\n5 km WNW of Nena, Philippines\n\n\n2026-04-20\n6.0\n100 km E of Miyako, Japan\n\n\n2026-05-08\n5.9\nsoutheast Indian Ridge\n\n\n2026-05-09\n5.8\n292 km WSW of Adak, Alaska\n\n\n2026-05-06\n5.8\n235 km ESE of Attu Station, Alaska\n\n\n2026-05-05\n5.8\n127 km ENE of Pauanui, New Zealand\n\n\n2026-05-05\n5.8\n76 km S of Tambolaka, Indonesia\n\n\n2026-05-01\n5.8\n29 km ENE of Yilan, Taiwan\n\n\n2026-04-18\n5.8\n46 km WSW of Kirakira, Solomon Islands"
   },
   {
     "objectID": "report.html#magnitude-distribution",
@@ -33,12 +40,5 @@
     "title": "Earthquake Report",
     "section": "Magnitude Distribution",
     "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
