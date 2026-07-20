@@ -1,24 +1,31 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Earthquake website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "report.html",
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 519 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 20 km ESE of Yumare, Venezuela."
+    "text": "In the past 30 days, USGS recorded 533 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 20 km ESE of Yumare, Venezuela."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 519 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 20 km ESE of Yumare, Venezuela."
+    "text": "In the past 30 days, USGS recorded 533 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.5 near 20 km ESE of Yumare, Venezuela."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-06-24\n7.5\n20 km ESE of Yumare, Venezuela\n\n\n2026-06-24\n7.2\n21 km ENE of San Felipe, Venezuela\n\n\n2026-06-24\n6.9\n33 km ENE of Noda, Japan\n\n\n2026-06-16\n6.7\n42 km SE of Palu, Indonesia\n\n\n2026-06-19\n6.6\n133 km ESE of Petropavlovsk-Kamchatsky, Russia\n\n\n2026-06-17\n6.6\ncentral Mid-Atlantic Ridge\n\n\n2026-06-26\n6.5\n34 km WSW of Sarangani, Philippines\n\n\n2026-07-13\n6.4\n191 km SE of Lorengau, Papua New Guinea\n\n\n2026-07-11\n6.4\nSouth Sandwich Islands region\n\n\n2026-06-16\n6.3\n262 km SSE of Dunhuang, China"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-06-24\n7.5\n20 km ESE of Yumare, Venezuela\n\n\n2026-07-17\n7.3\n58 km WSW of Puerto Madero, Mexico\n\n\n2026-06-24\n7.2\n21 km ENE of San Felipe, Venezuela\n\n\n2026-06-24\n6.9\n33 km ENE of Noda, Japan\n\n\n2026-06-26\n6.5\n34 km WSW of Sarangani, Philippines\n\n\n2026-07-13\n6.4\n191 km SE of Lorengau, Papua New Guinea\n\n\n2026-07-11\n6.4\nSouth Sandwich Islands region\n\n\n2026-07-13\n6.3\nsoutheast of the Loyalty Islands\n\n\n2026-07-14\n6.2\n32 km WSW of Sarangani, Philippines\n\n\n2026-07-03\n6.2\n58 km W of Tobelo, Indonesia"
   },
   {
     "objectID": "report.html#magnitude-distribution",
@@ -33,12 +40,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Earthquake website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
