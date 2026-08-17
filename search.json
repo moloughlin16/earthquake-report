@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Earthquake website",
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "Earthquake Report",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "In the past 30 days, USGS recorded 623 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 68 km NNW of Ende, Indonesia."
+  },
+  {
+    "objectID": "report.html#overview",
+    "href": "report.html#overview",
+    "title": "Earthquake Report",
+    "section": "",
+    "text": "In the past 30 days, USGS recorded 623 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 68 km NNW of Ende, Indonesia."
+  },
+  {
+    "objectID": "report.html#top-10-strongest-earthquakes",
+    "href": "report.html#top-10-strongest-earthquakes",
+    "title": "Earthquake Report",
+    "section": "Top 10 Strongest Earthquakes",
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-08-14\n7.7\n68 km NNW of Ende, Indonesia\n\n\n2026-08-10\n7.4\n5 km S of San José del Palmar, Colombia\n\n\n2026-08-15\n6.9\n15 km NNW of Pematangsiantar, Indonesia\n\n\n2026-07-28\n6.8\nThe 2026 Kumamoto Region, Japan Earthquake\n\n\n2026-08-05\n6.3\nsouth of the Kermadec Islands\n\n\n2026-08-05\n6.3\n32 km SW of Sarangani, Philippines\n\n\n2026-08-16\n6.1\n56 km NNE of Port-Olry, Vanuatu\n\n\n2026-08-14\n6.1\n58 km N of Ende, Indonesia\n\n\n2026-08-12\n6.0\nSouth Sandwich Islands region\n\n\n2026-07-24\n6.0\n55 km W of Sola, Vanuatu"
+  },
+  {
+    "objectID": "report.html#magnitude-distribution",
+    "href": "report.html#magnitude-distribution",
+    "title": "Earthquake Report",
+    "section": "Magnitude Distribution",
+    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
   },
   {
     "objectID": "about.html",
@@ -14,31 +35,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "report.html",
-    "href": "report.html",
-    "title": "Earthquake Report",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Earthquake website",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 657 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.3 near 52 km W of Puerto Madero, Mexico."
-  },
-  {
-    "objectID": "report.html#overview",
-    "href": "report.html#overview",
-    "title": "Earthquake Report",
-    "section": "",
-    "text": "In the past 30 days, USGS recorded 657 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.3 near 52 km W of Puerto Madero, Mexico."
-  },
-  {
-    "objectID": "report.html#top-10-strongest-earthquakes",
-    "href": "report.html#top-10-strongest-earthquakes",
-    "title": "Earthquake Report",
-    "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-07-17\n7.3\n52 km W of Puerto Madero, Mexico\n\n\n2026-07-28\n6.8\nThe 2026 Kumamoto Region, Japan Earthquake\n\n\n2026-07-17\n6.4\n96 km SW of Puerto Madero, Mexico\n\n\n2026-07-13\n6.4\n196 km SE of Lorengau, Papua New Guinea\n\n\n2026-08-05\n6.3\nsouth of the Kermadec Islands\n\n\n2026-08-05\n6.3\n32 km SW of Sarangani, Philippines\n\n\n2026-07-13\n6.3\nsoutheast of the Loyalty Islands\n\n\n2026-07-14\n6.2\n32 km WSW of Sarangani, Philippines\n\n\n2026-07-24\n6.0\n55 km W of Sola, Vanuatu\n\n\n2026-07-30\n5.9\n247 km NNE of Colonia, Micronesia\n\n\n2026-07-29\n5.9\nKermadec Islands region\n\n\n2026-07-28\n5.9\n50 km WSW of Brisas Barra de Suchiate, Mexico\n\n\n2026-07-16\n5.9\n44 km NNW of Te Anau, New Zealand"
-  },
-  {
-    "objectID": "report.html#magnitude-distribution",
-    "href": "report.html#magnitude-distribution",
-    "title": "Earthquake Report",
-    "section": "Magnitude Distribution",
-    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
