@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "report.html",
-    "href": "report.html",
-    "title": "Earthquake Report",
-    "section": "",
-    "text": "In the past 30 days, USGS recorded 620 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 68 km NNW of Ende, Indonesia."
-  },
-  {
-    "objectID": "report.html#overview",
-    "href": "report.html#overview",
-    "title": "Earthquake Report",
-    "section": "",
-    "text": "In the past 30 days, USGS recorded 620 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 68 km NNW of Ende, Indonesia."
-  },
-  {
-    "objectID": "report.html#top-10-strongest-earthquakes",
-    "href": "report.html#top-10-strongest-earthquakes",
-    "title": "Earthquake Report",
-    "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-08-14\n7.7\n68 km NNW of Ende, Indonesia\n\n\n2026-08-10\n7.4\n5 km S of San José del Palmar, Colombia\n\n\n2026-08-15\n6.9\n9 km WNW of Pematangsiantar, Indonesia\n\n\n2026-08-20\n6.7\n31 km NW of Aniso, Peru\n\n\n2026-08-05\n6.3\nsouth of the Kermadec Islands\n\n\n2026-08-05\n6.3\n28 km SW of Sarangani, Philippines\n\n\n2026-08-22\n6.2\nScotia Sea\n\n\n2026-08-16\n6.1\n56 km NNE of Port-Olry, Vanuatu\n\n\n2026-08-14\n6.1\n58 km N of Ende, Indonesia\n\n\n2026-08-27\n6.0\n145 km N of Caluula, Somalia\n\n\n2026-08-24\n6.0\n215 km NNE of Lospalos, Timor Leste\n\n\n2026-08-23\n6.0\n32 km SSW of Honchō, Japan\n\n\n2026-08-12\n6.0\nSouth Sandwich Islands region"
-  },
-  {
-    "objectID": "report.html#magnitude-distribution",
-    "href": "report.html#magnitude-distribution",
-    "title": "Earthquake Report",
-    "section": "Magnitude Distribution",
-    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -40,5 +12,33 @@
     "title": "Earthquake website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "Earthquake Report",
+    "section": "",
+    "text": "In the past 30 days, USGS recorded 653 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.8 near 64 km NNW of Ende, Indonesia."
+  },
+  {
+    "objectID": "report.html#overview",
+    "href": "report.html#overview",
+    "title": "Earthquake Report",
+    "section": "",
+    "text": "In the past 30 days, USGS recorded 653 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.8 near 64 km NNW of Ende, Indonesia."
+  },
+  {
+    "objectID": "report.html#top-10-strongest-earthquakes",
+    "href": "report.html#top-10-strongest-earthquakes",
+    "title": "Earthquake Report",
+    "section": "Top 10 Strongest Earthquakes",
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-08-14\n7.8\n64 km NNW of Ende, Indonesia\n\n\n2026-08-10\n7.4\n2 km SE of San José del Palmar, Colombia\n\n\n2026-08-15\n6.9\n9 km WNW of Pematangsiantar, Indonesia\n\n\n2026-08-20\n6.7\n37 km NE of Tambo, Peru\n\n\n2026-09-03\n6.3\n84 km SSW of Nikolski, Alaska\n\n\n2026-09-02\n6.2\nSouth Sandwich Islands region\n\n\n2026-08-22\n6.2\nScotia Sea\n\n\n2026-08-16\n6.1\n55 km NNE of Port-Olry, Vanuatu\n\n\n2026-08-14\n6.1\n62 km N of Ende, Indonesia\n\n\n2026-08-27\n6.0\n145 km N of Caluula, Somalia\n\n\n2026-08-24\n6.0\n211 km NNE of Lospalos, Timor Leste\n\n\n2026-08-23\n6.0\n32 km SSW of Honchō, Japan\n\n\n2026-08-12\n6.0\nSouth Sandwich Islands region"
+  },
+  {
+    "objectID": "report.html#magnitude-distribution",
+    "href": "report.html#magnitude-distribution",
+    "title": "Earthquake Report",
+    "section": "Magnitude Distribution",
+    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
   }
 ]
