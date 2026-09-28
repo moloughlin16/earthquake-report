@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "Earthquake Report",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In the past 30 days, USGS recorded 514 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.6 near 80 km ENE of Tadine, New Caledonia."
+  },
+  {
+    "objectID": "report.html#overview",
+    "href": "report.html#overview",
+    "title": "Earthquake Report",
+    "section": "",
+    "text": "In the past 30 days, USGS recorded 514 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.6 near 80 km ENE of Tadine, New Caledonia."
+  },
+  {
+    "objectID": "report.html#top-10-strongest-earthquakes",
+    "href": "report.html#top-10-strongest-earthquakes",
+    "title": "Earthquake Report",
+    "section": "Top 10 Strongest Earthquakes",
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-09-25\n6.6\n80 km ENE of Tadine, New Caledonia\n\n\n2026-09-17\n6.5\n177 km W of Nikolski, Alaska\n\n\n2026-09-11\n6.5\n126 km NNE of Teluknaga, Indonesia\n\n\n2026-09-20\n6.4\n49 km NNE of Kainantu, Papua New Guinea\n\n\n2026-09-03\n6.3\n89 km SSW of Nikolski, Alaska\n\n\n2026-09-02\n6.2\nSouth Sandwich Islands region\n\n\n2026-09-11\n5.9\n253 km ENE of Lospalos, Timor Leste\n\n\n2026-09-02\n5.9\nsouthern East Pacific Rise\n\n\n2026-09-23\n5.7\n180 km NW of Hihifo, Tonga\n\n\n2026-09-02\n5.7\n163 km WSW of Abepura, Indonesia"
+  },
+  {
+    "objectID": "report.html#magnitude-distribution",
+    "href": "report.html#magnitude-distribution",
+    "title": "Earthquake Report",
+    "section": "Magnitude Distribution",
+    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
   },
   {
     "objectID": "index.html",
@@ -14,31 +35,10 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "report.html",
-    "href": "report.html",
-    "title": "Earthquake Report",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 499 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.5 near 169 km W of Nikolski, Alaska."
-  },
-  {
-    "objectID": "report.html#overview",
-    "href": "report.html#overview",
-    "title": "Earthquake Report",
-    "section": "",
-    "text": "In the past 30 days, USGS recorded 499 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.5 near 169 km W of Nikolski, Alaska."
-  },
-  {
-    "objectID": "report.html#top-10-strongest-earthquakes",
-    "href": "report.html#top-10-strongest-earthquakes",
-    "title": "Earthquake Report",
-    "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-09-17\n6.5\n169 km W of Nikolski, Alaska\n\n\n2026-09-11\n6.5\n126 km NNE of Teluknaga, Indonesia\n\n\n2026-09-20\n6.4\n49 km NNE of Kainantu, Papua New Guinea\n\n\n2026-09-03\n6.3\n84 km SSW of Nikolski, Alaska\n\n\n2026-09-02\n6.2\nSouth Sandwich Islands region\n\n\n2026-08-24\n6.0\n211 km NNE of Lospalos, Timor Leste\n\n\n2026-08-23\n6.0\n32 km SSW of Honchō, Japan\n\n\n2026-09-11\n5.9\n253 km ENE of Lospalos, Timor Leste\n\n\n2026-09-02\n5.9\nsouthern East Pacific Rise\n\n\n2026-08-27\n5.9\n144 km N of Caluula, Somalia"
-  },
-  {
-    "objectID": "report.html#magnitude-distribution",
-    "href": "report.html#magnitude-distribution",
-    "title": "Earthquake Report",
-    "section": "Magnitude Distribution",
-    "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
