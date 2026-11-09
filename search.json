@@ -1,31 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Earthquake website",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "report.html",
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 732 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 10 km WSW of Pitaloza Arriba, Panama."
+    "text": "In the past 30 days, USGS recorded 663 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 189 km ENE of Nagqu, China."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 732 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7.7 near 10 km WSW of Pitaloza Arriba, Panama."
+    "text": "In the past 30 days, USGS recorded 663 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 189 km ENE of Nagqu, China."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-10-09\n7.7\n10 km WSW of Pitaloza Arriba, Panama\n\n\n2026-10-22\n7.0\n189 km ENE of Nagqu, China\n\n\n2026-10-24\n6.9\n197 km WNW of Port-Olry, Vanuatu\n\n\n2026-10-16\n6.9\n76 km NE of Ozernovskiy, Russia\n\n\n2026-10-13\n6.8\ncentral Mid-Atlantic Ridge\n\n\n2026-10-13\n6.7\ncentral Mid-Atlantic Ridge\n\n\n2026-10-09\n6.6\n12 km W of Río Grande, Panama\n\n\n2026-10-25\n6.5\nBonin Islands, Japan region\n\n\n2026-10-29\n6.4\nsoutheast of Easter Island\n\n\n2026-10-24\n6.3\n170 km NW of Port-Olry, Vanuatu\n\n\n2026-10-20\n6.3\n197 km NW of Port-Olry, Vanuatu\n\n\n2026-10-08\n6.3\n102 km NE of Norsup, Vanuatu"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-10-22\n7.0\n189 km ENE of Nagqu, China\n\n\n2026-10-16\n6.9\n72 km NE of Ozernovskiy, Russia\n\n\n2026-10-24\n6.8\n203 km NW of Port-Olry, Vanuatu\n\n\n2026-10-13\n6.8\ncentral Mid-Atlantic Ridge\n\n\n2026-10-13\n6.7\ncentral Mid-Atlantic Ridge\n\n\n2026-10-25\n6.5\nBonin Islands, Japan region\n\n\n2026-11-09\n6.4\n30 km WSW of Lata, Solomon Islands\n\n\n2026-10-29\n6.4\nsoutheast of Easter Island\n\n\n2026-10-20\n6.3\n197 km NW of Port-Olry, Vanuatu\n\n\n2026-10-29\n6.2\n43 km ESE of Port-Olry, Vanuatu\n\n\n2026-10-11\n6.2\n86 km SSE of Panguna, Papua New Guinea"
   },
   {
     "objectID": "report.html#magnitude-distribution",
@@ -35,10 +35,10 @@
     "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Earthquake website",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
