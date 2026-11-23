@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "report.html",
     "href": "report.html",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 679 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 189 km ENE of Nagqu, China."
+    "text": "In the past 30 days, USGS recorded 573 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.8 near 105 km NE of Lospalos, Timor Leste."
   },
   {
     "objectID": "report.html#overview",
     "href": "report.html#overview",
     "title": "Earthquake Report",
     "section": "",
-    "text": "In the past 30 days, USGS recorded 679 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 7 near 189 km ENE of Nagqu, China."
+    "text": "In the past 30 days, USGS recorded 573 earthquakes of magnitude 4.5 or greater. The strongest was a magnitude 6.8 near 105 km NE of Lospalos, Timor Leste."
   },
   {
     "objectID": "report.html#top-10-strongest-earthquakes",
     "href": "report.html#top-10-strongest-earthquakes",
     "title": "Earthquake Report",
     "section": "Top 10 Strongest Earthquakes",
-    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-10-22\n7.0\n189 km ENE of Nagqu, China\n\n\n2026-10-24\n6.8\n203 km NW of Port-Olry, Vanuatu\n\n\n2026-10-25\n6.5\nBonin Islands, Japan region\n\n\n2026-11-09\n6.4\n30 km WSW of Lata, Solomon Islands\n\n\n2026-10-29\n6.4\nsoutheast of Easter Island\n\n\n2026-10-20\n6.3\n202 km NW of Port-Olry, Vanuatu\n\n\n2026-10-29\n6.2\n43 km ESE of Port-Olry, Vanuatu\n\n\n2026-11-06\n6.1\n144 km SE of Hasaki, Japan\n\n\n2026-11-05\n6.1\nFiji region\n\n\n2026-10-25\n6.1\n22 km ENE of Port-Olry, Vanuatu\n\n\n2026-10-24\n6.1\n163 km NW of Port-Olry, Vanuatu"
+    "text": "Top 10 Strongest Earthquakes\n\n\n\n\n\nDate\nMagnitude\nLocation\n\n\n\n\n2026-11-21\n6.8\n105 km NE of Lospalos, Timor Leste\n\n\n2026-11-21\n6.7\n7 km ENE of Carhuamayo, Peru\n\n\n2026-11-16\n6.6\n149 km WSW of Tual, Indonesia\n\n\n2026-11-23\n6.5\nVanuatu region\n\n\n2026-10-25\n6.5\nBonin Islands, Japan region\n\n\n2026-11-09\n6.4\n30 km WSW of Lata, Solomon Islands\n\n\n2026-10-29\n6.4\nsoutheast of Easter Island\n\n\n2026-10-29\n6.2\n39 km ESE of Port-Olry, Vanuatu\n\n\n2026-11-06\n6.1\n144 km SE of Hasaki, Japan\n\n\n2026-11-05\n6.1\nFiji region\n\n\n2026-10-25\n6.1\n22 km ENE of Port-Olry, Vanuatu"
   },
   {
     "objectID": "report.html#magnitude-distribution",
@@ -33,6 +26,13 @@
     "title": "Earthquake Report",
     "section": "Magnitude Distribution",
     "text": "Magnitude Distribution\n\n\n\n\n\n\n\n\nFigure 1: Distribution of earthquake magnitudes (M4.5+) over the past 30 days."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
